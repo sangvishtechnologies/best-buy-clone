@@ -15,6 +15,9 @@ Best Buy is known as a household name for a reason. Their business model provide
 The electronics sector is expanding rapidly. By serving to this specialized market, you have access to a focused consumer base with significant spending power.
 * **Room for Innovation:**
 While Best Buy serves as an inspiration, your platform might be distinctive. Consider selected product lines, great customer service, or focusing on particular tech segments (such as gaming or smart homes).
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“bestbuyclonescript.png" src="https://github.com/sangvishtechnologies/best-buy-clone/blob/main/images/best-buy-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## Step-by-Step Guide to Building Your eCommerce Website
 In today's technologically driven world, having an online presence is critical for every business. If you're thinking about getting into eCommerce, creating a platform using[ Best Buy Clone Script](https://sangvish.com/best-buy-clone/) might be a great place to start. It is an example of an eCommerce success story because of its user-friendly design, wide selection of products, and smooth purchasing experience. In this step-by-step tutorial, we'll lead you through the process of developing your own [Best Buy clone](https://sangvish.com/best-buy-clone/), allowing you to capitalize on the expanding online retail sector.
 * **Market Research**
@@ -31,6 +34,9 @@ Create a smooth shopping cart experience in which customers can easily add, upda
 Prioritize exceptional customer service to create trust and loyalty among your target audience. Provide numerous methods for client service, such as live chat, email, and phone. Encourage feedback and reviews to get insights and resolve any concerns as soon as possible. Utilize a robust system for managing returns, refunds, and exchanges for ultimate customer satisfaction.
 * **Continuous Maintenance and Updates:**
 Maintain and upgrade your eCommerce platform on a regular basis to ensure that it's safe, dependable, and up-to-date on the newest technologies and trends. Monitor website performance, resolve errors, and rapidly apply software fixes. Maintain agility and adaptability to changing client requirements and market circumstances.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“bestbuyclone.png" src="https://github.com/sangvishtechnologies/best-buy-clone/blob/main/images/best-buy-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ### Conclusion:
 By following this step-by-step guide, you can build a successful eCommerce platform with features and user experience in the[ Best Buy clone script](https://sangvish.com/best-buy-clone/) while adapting to the specific requirements of your target audience. With dedication, creativity, and attention to detail, you can carve yourself a place in the competitive online retail industry and achieve long-term growth and profitability. Sangvish offers the best buy clone with advanced features, technologies, and the latest functionalities to entrepreneurs for starting their desired business. 
 
